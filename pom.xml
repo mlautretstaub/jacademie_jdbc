@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.jacademie</groupId>
-  <artifactId>tdhsqldb</artifactId>
+  <artifactId>allo</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>tdhsqldb</name>
+  <name>allo</name>
   <url>http://maven.apache.org</url>
 
   <properties>

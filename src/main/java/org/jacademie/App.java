@@ -21,6 +21,7 @@ public class App {
     public static void main( String[] args ) {
     	    	
         logger.info( "Welcome to FootDb App !" );
+        logger.info( "Welcome to FootDb App !" );
         
         FootDao dao = new FootDao();
         

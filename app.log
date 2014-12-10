@@ -91,3 +91,15 @@
 2014-11-28 17:11:00,484 [main] INFO  org.jacademie.dao.ClientDao - Client created.
 2014-11-28 17:11:00,484 [main] INFO  org.jacademie.dao.EventDao - Creating Event : Event [id=null, date=Fri Nov 28 17:11:00 CET 2014, description=Event inter entreprise, invitedClients=[Entreprise [siret=BAC3, Client [id=4, numeroClient=1023]], Entreprise [siret=ABC2, Client [id=3, numeroClient=1001]], Entreprise [siret=ABC1, Client [id=2, numeroClient=1000]]]]...
 2014-11-28 17:11:00,494 [main] INFO  org.jacademie.dao.EventDao - Event created.
+2014-12-10 23:23:41,877 [main] INFO  org.jacademie.App - Welcome to FootDb App !
+2014-12-10 23:23:42,040 [main] INFO  org.jacademie.App - Find : Team [num=4, name=ASSE]
+2014-12-10 23:23:42,145 [main] INFO  org.jacademie.App - Has player : Player [num=4, name=Mollo, numero=11, equipeId=4]
+2014-12-10 23:23:42,145 [main] INFO  org.jacademie.App - Find : Team [num=2, name=Bayern Munich]
+2014-12-10 23:23:42,247 [main] INFO  org.jacademie.App - Has player : Player [num=2, name=Ribery, numero=22, equipeId=2]
+2014-12-10 23:23:42,247 [main] INFO  org.jacademie.App - Find : Team [num=3, name=Chelsea]
+2014-12-10 23:23:42,348 [main] INFO  org.jacademie.App - Has player : Player [num=3, name=Drogba, numero=11, equipeId=3]
+2014-12-10 23:23:42,349 [main] INFO  org.jacademie.App - Find : Team [num=1, name=FC Barcelone]
+2014-12-10 23:23:42,463 [main] INFO  org.jacademie.App - Find : Team [num=0, name=Real Madrid]
+2014-12-10 23:23:42,567 [main] INFO  org.jacademie.App - Has player : Player [num=0, name=Ronaldo, numero=7, equipeId=0]
+2014-12-10 23:23:42,568 [main] INFO  org.jacademie.App - Has player : Player [num=1, name=Benzema, numero=9, equipeId=0]
+2014-12-10 23:23:42,568 [main] INFO  org.jacademie.App - Thanks for using us !
