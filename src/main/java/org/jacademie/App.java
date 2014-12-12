@@ -22,6 +22,7 @@ public class App {
     	    	
         logger.info( "Welcome to FootDb App !" );
         logger.info( "Welcome to FootDb App !" );
+        logger.info("t'es gay");
         
         FootDao dao = new FootDao();
         
